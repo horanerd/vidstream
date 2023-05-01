@@ -15,7 +15,7 @@ LONG_DESCRIPTION = 'A package that allows to build simple streams of video, audi
 setup(
     name="vidstream",
     version=VERSION,
-    author="NeuralNine (Florian Dedov)",
+    author="Guilherme de sousa do Nascimento",
     author_email="guines002@hotmail.com",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
