@@ -8,8 +8,8 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
 VERSION = '0.0.13'
-DESCRIPTION = 'Streaming video data via networks'
-LONG_DESCRIPTION = 'A package that allows to build simple streams of video, audio and camera data.'
+DESCRIPTION = 'Este software faz a instalação de um sistema de vídeo conferenencia.'
+LONG_DESCRIPTION = 'Desenvolvido para vídeo conferência.'
 
 # Setting up
 setup(
