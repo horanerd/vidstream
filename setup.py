@@ -16,7 +16,7 @@ setup(
     name="vidstream",
     version=VERSION,
     author="NeuralNine (Florian Dedov)",
-    author_email="<mail@neuralnine.com>",
+    author_email="guines002@hotmail.com",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
