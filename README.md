@@ -2,7 +2,7 @@
 
 Under construction! Not ready for use yet! Currently experimenting and planning!
 
-Developed by Florian Dedov from NeuralNine (c) 2020
+# Developed by Florian Dedov from NeuralNine (c) 2020
 
 Realizado atualizações por Guilherme de Sousa do Nascimento em 01/05/2023.
 Atualizado as descrições para PT-BR.
